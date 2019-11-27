@@ -2,13 +2,14 @@
 
 This is from course in A Clourd Guru creating a site in React.
 
-https://acloud.guru/course/serverless-portfolio-with-react
+[Create a Serverless Portfolio with AWS and ReactJS](https://acloud.guru/course/serverless-portfolio-with-react)
 
-(tienes que estar logueado para ver contenido)
+(_you must be logged in to watch the content_)
 
-## Technologies used
+### Technologies used
 
  * Git and Github
  * SSH
  * React
  * AWS S3, CodePipeline, SQS, Lambda
+ * Some extra sauces :D
