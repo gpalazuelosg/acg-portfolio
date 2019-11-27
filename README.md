@@ -1,2 +1,4 @@
-# acg-portfolio
-A Cloud Guru tutorial for site on AWS
+# AWS and sites
+
+This is from course in A Clourd Guru creating a site in React.
+
